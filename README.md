@@ -264,4 +264,4 @@ Srimeenakshi K S. (2025). English-to-Braille Translator for Educational Content.
 
 ## Model Card Authors
 
-- **Author:** Srimeenakshi K S
+- **Author(s):** Srimeenakshi K S, Aruniya Asokan
